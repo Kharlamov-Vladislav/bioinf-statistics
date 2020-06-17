@@ -1,7 +1,7 @@
 ## Курс статистики [института биоинформатики](bioinf.me) 2019/2020.
 
 Преподаватели: 
-1. [Антон Коробейников](http://anton.korobeynikov.info/) (SPbU);
+1. [Антон Коробейников](http://cab.spbu.ru/employees/anton-korobeynikov/) (SPbU);
 Ассистенты:
 1. Елена Картышева (SPbU)
 2. Наталья Зенкова (SPbU)
